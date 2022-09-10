@@ -35,7 +35,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://gschian0.github.io/algorand-marketplace",
+  "homepage": "https://gschian0.github.io/algorand-marketplace/",
   "browserslist": {
     "production": [
       ">0.2%",
